@@ -8,7 +8,7 @@ Salesforce Developer
 * ✉️  You can contact me at [kkerimow@hotmail.com](mailto:kkerimow@hotmail.com)
 * 🧠  I'm learning everything Apex | LWC | JavaScript | React
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I'm IRONMAN, Tell Everyone.
+* ⚡  I'm IRONMAN.
 
 ### Skills
 
